@@ -1,1 +1,5 @@
-# Loan_Prediction
+- In this **classification project**, our initial focus involved thorough data cleaning, encompassing tasks like addressing null values and rectifying inaccuracies.
+- Furthermore, data transformation using **Python Pandas** was carried out, converting information into a numerical format to enhance the model's understanding of the data.
+- Subsequently, we employed various **machine learning models,** including **Decision tree, Naive Bayes, and KNN,** with the goal of achieving maximum accuracy in predicting loan eligibility for applicants.
+- The predictive analysis centered around key characteristics such as income, loan amount, credit history, and the area of the property.
+- This approach aimed to provide a robust assessment of loan eligibility by leveraging the power of different classification algorithms to capture diverse patterns in the data.
